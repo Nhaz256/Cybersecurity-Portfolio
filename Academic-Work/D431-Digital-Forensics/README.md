@@ -21,9 +21,8 @@ This course introduced the fundamentals of digital forensics, including evidence
 - Reconstructing events based on digital footprints
 
 ## 🔗 Attachments
-[Digital Forensics (task 1).docx](https://github.com/user-attachments/files/25156377/Digital.Forensics.task.1.docx)
-[Uploading Digital Forensics (task 2).docx…]()
-
+[Digital Forensics (task 1).docx](https://github.com/user-attachments/files/25156399/Digital.Forensics.task.1.docx)
+[Digital Forensics (task 2).docx](https://github.com/user-attachments/files/25156401/Digital.Forensics.task.2.docx)
 
 ## 💬 Reflection
 This course helped me understand how forensic analysts piece together what happened during an incident. Seeing how evidence is collected and interpreted gave me a clearer sense of how attackers are detected and how their actions can be traced. It strengthened my ability to analyze systems more critically and made a lot of real-world security concepts feel more concrete.
