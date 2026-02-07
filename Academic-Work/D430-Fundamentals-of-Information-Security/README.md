@@ -1,0 +1,24 @@
+# Fundamentals of Information Security (D430)
+
+## 📘 Overview
+This course introduced the foundational principles of information security, including the CIA triad, risk management, access control, and security policies. It helped me understand how organizations structure security and why certain controls exist.
+
+## 🧠 What I Learned
+- CIA triad (Confidentiality, Integrity, Availability)
+- Security controls and defense-in-depth
+- Access control models (MAC, DAC, RBAC)
+- Authentication and authorization concepts
+- Basic risk management and mitigation strategies
+- Security policies, standards, and procedures
+
+## 🛠 Skills Gained
+- Understanding core security principles
+- Mapping controls to risks
+- Reading and interpreting security policies
+- Thinking like a defender at an organizational level
+
+## 🔗 Attachments
+(Add your PDFs, PowerPoints, or Word docs here once uploaded)
+
+## 💬 Reflection
+This course gave me the foundational mindset needed for cybersecurity. It ties directly into my USAF work with governance, compliance, and RMF, and it supports my path toward Pentest+ and eventually 1B4X1 Cyber Warfare Operations.
