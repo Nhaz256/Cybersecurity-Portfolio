@@ -17,8 +17,5 @@ This course introduced the foundational principles of information security, incl
 - Reading and interpreting security policies
 - Thinking like a defender at an organizational level
 
-## 🔗 Attachments
-(Add your PDFs, PowerPoints, or Word docs here once uploaded)
-
 ## 💬 Reflection
 This course gave me the foundational mindset needed for cybersecurity. It ties directly into my USAF work with governance, compliance, and RMF, and it supports my path toward Pentest+ and eventually 1B4X1 Cyber Warfare Operations.
